@@ -1,0 +1,18 @@
+table{
+    width: 100%;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+/* thead{
+    text-align: center;
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 40px;
+} */
+td{
+    text-align: center;
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 40px;
+}
